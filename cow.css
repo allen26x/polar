@@ -1,0 +1,17 @@
+/*
+Allen Toland-Barber
+CSE 154 to-do list
+Extra features 1, 2
+Style for error boxes
+
+*/
+
+.fail{
+	background-color: pink;
+	padding: 5px;
+	border: 2px dashed red;
+	margin-bottom: 5px;
+	margin-top: 5px;
+	width: auto;
+
+}
